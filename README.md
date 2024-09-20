@@ -14,10 +14,22 @@ Legal Saathi AI is an advanced legal chatbot that provides accurate and up-to-da
 - User-friendly interface for easy interaction
 
 
+## Video Demo
+
+#### Legal Saathi AI Chatbot Demo
+[![Legal Saathi AI Chatbot Demo](https://img.youtube.com/vi/XSzYVwAyPXI/0.jpg)](https://www.youtube.com/watch?v=XSzYVwAyPXI)
+
+#### Legal Saathi AI Call Demo
+[![Legal Saathi AI Call Bot Demo](https://img.youtube.com/vi/6LWc3LxaK-0/0.jpg)](https://www.youtube.com/watch?v=6LWc3LxaK-0)
+
+
 ## 🔗 Try it out
 
 [Frontend](https://github.com/Shub3am/Indian-Law-Chatbot) 
 [Backend](https://github.com/Shub3am/Legal-Saathi-backend)
+[Call-Bot]()
+
+
 [Deployed](https://indian-law-chatbot.vercel.app/)
 
 
